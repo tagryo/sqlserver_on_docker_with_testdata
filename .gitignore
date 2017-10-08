@@ -1,0 +1,6 @@
+.vagrant/
+
+test-container/.system/
+test-container/log/
+test-container/secrets/
+test-container/build.log
